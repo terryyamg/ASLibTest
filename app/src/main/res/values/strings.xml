@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LibTest</string>
+    <string name="click">你現在按的是</string>
+</resources>
